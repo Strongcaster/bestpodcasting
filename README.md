@@ -1,2 +1,3 @@
-# bestpodcasting
-Best podcast reviews for hosting, microphones, analytics, audio gear, and podcasting websites
+# Best Podcasting Resources
+
+Reviews for hosting, microphones, analytics, audio gear, and podcasting websites
